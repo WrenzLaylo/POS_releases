@@ -1,10 +1,13 @@
 {
-  "build": 2,
+  "build": 1,
   "version": "2026.08.17",
   "publishedAt": "2026-08-17T12:06:09.663Z",
   "notes": [
-    "A second release, to prove the update check offers it"
+    "Suppliers, deliveries and consignment stock",
+    "Categories can be created and renamed",
+    "Customer credit can be spent at the counter",
+    "Updates no longer need git"
   ],
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-2.zip",
-  "sha256": "1d4817b734b6546409a53ca665bea118c699e18395b3174477470ce5e17dab6f"
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-1.zip",
+  "sha256": "307f4a866a7e284d82b394301f4608045ffd048468fe4a054532ed5e13a3e122"
 }
