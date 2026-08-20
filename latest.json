@@ -1,17 +1,17 @@
 {
-  "build": 4,
+  "build": 5,
   "version": "2026.08.20",
-  "publishedAt": "2026-08-20T03:29:33.715Z",
+  "publishedAt": "2026-08-20T04:16:33.766Z",
   "notes": [
     "Count stock in one pass, and record what a customer already owed",
     "Restore a backup, and copy backups to a USB stick, from the menu",
     "Print receipts straight to the printer with no dialog",
     "Save any document as a PDF in one press",
-    "Delivery receipts, and a To settle list for consignments",
+    "Delivery receipts, and a To settle list showing what a consignment is running up",
     "Discounts can name specific products, on a screen of their own",
     "Choose whether a counter discount replaces the customer's own or adds to it",
     "Export everything to CSV, and import categories and suppliers"
   ],
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-4.zip",
-  "sha256": "6efc6799da43089fc0f2a303837b5c6f19ebe175156404de6370f4adfa1126f0"
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-5.zip",
+  "sha256": "4c81b65b68212a7ab44260cfc1b7b61c5069922ded1c9560bc8f63d7c9690688"
 }
