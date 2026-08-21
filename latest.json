@@ -1,13 +1,14 @@
 {
-  "build": 9,
+  "build": 10,
   "version": "2026.08.21",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-9.zip",
-  "sha256": "35209a351fb315924ea41057301ad9619a5b9b62a105a6056c8ce0a383f5472f",
-  "publishedAt": "2026-08-21T05:44:27.538Z",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-10.zip",
+  "sha256": "578346d99720734471f8b18ed64bbd24a643a6989e4e9b69f8413f5fbf02f1eb",
+  "publishedAt": "2026-08-21T10:16:12.415Z",
   "notes": [
-    "Type every cost price on one screen, so profit figures stop counting the whole selling price as profit",
-    "Carry the whole notebook across in one pass: a Starting utang tab on the Book",
-    "The order rail is wider on a large screen"
+    "Fixes the update button, which would have refused every future update",
+    "A password can now be set for the till - it stays off until you turn it on in Settings",
+    "Type every cost price on one screen, so profit stops counting the whole selling price",
+    "Carry the whole notebook across in one pass: a Starting utang tab on the Book"
   ],
-  "signature": "nRZizTheQIu0H3wsCeJPbdE/0J3BzS4Cn1Bz4h3DpGoD1PKeGYzFShIL9a7ngFujG36EWkt3toPt1TQ89oD/DA=="
+  "signature": "oQE1t1Ng3oTUvZh/CKLG5+x49BaZbIaKqG+Doxeps6Ac5CKGNiaJ234kHWK9yWCpu0MOWpCoei/Vi6v93VX6CA=="
 }
