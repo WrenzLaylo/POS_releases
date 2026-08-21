@@ -1,17 +1,12 @@
 {
-  "build": 7,
+  "build": 8,
   "version": "2026.08.21",
-  "publishedAt": "2026-08-21T00:57:07.867Z",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-8.zip",
+  "sha256": "e348191303a0108311026ad92d7275d83ac0ad48a1be4454b0e2a7d5fabc8f90",
+  "publishedAt": "2026-08-21T02:48:48.136Z",
   "notes": [
-    "A customer can have several standing discounts, not just one",
-    "A discount can name specific products, and the most specific one wins",
-    "Discount a single line at the counter, per sack or once for the line",
-    "Choose whether your discount replaces the customer's own or adds to it",
-    "Settling a consignment starts from what the counter actually sold",
-    "Count stock in one pass, and record what a customer already owed",
-    "Restore a backup or copy backups to a USB stick from the menu",
-    "Print receipts straight to the printer, and save any document as a PDF"
+    "Updates are now signed, so only releases from this machine can be installed",
+    "A failed update puts the previous version back instead of leaving it half-installed"
   ],
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-7.zip",
-  "sha256": "757e2103417db382b02353a908ff61cd0d6516c847ade6d66d9814bd330674ba"
+  "signature": "sTQWQrVRt0Jf8va7MjQuIcy6g4rDh8heZ7iXJTmxGIuoVvccRgONjcQDtSNREt2mdJdvC4gApf5/PQS/3IbfBQ=="
 }
