@@ -1,15 +1,17 @@
 {
-  "build": 6,
-  "version": "2026.08.20",
-  "publishedAt": "2026-08-20T11:18:11.621Z",
+  "build": 7,
+  "version": "2026.08.21",
+  "publishedAt": "2026-08-21T00:57:07.867Z",
   "notes": [
-    "Settling a consignment starts from what the counter actually sold, and warns if you enter more",
-    "Correct a settlement that was entered wrong, instead of voiding the whole delivery",
-    "Settling is its own screen now, and its boxes refuse letters",
-    "A line discount can be once for the line instead of each sack",
-    "The order tally is clean again, and discounting a line opens from its amount",
-    "The Stock list no longer colours every row when stock is uncounted"
+    "A customer can have several standing discounts, not just one",
+    "A discount can name specific products, and the most specific one wins",
+    "Discount a single line at the counter, per sack or once for the line",
+    "Choose whether your discount replaces the customer's own or adds to it",
+    "Settling a consignment starts from what the counter actually sold",
+    "Count stock in one pass, and record what a customer already owed",
+    "Restore a backup or copy backups to a USB stick from the menu",
+    "Print receipts straight to the printer, and save any document as a PDF"
   ],
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-6.zip",
-  "sha256": "6054f67f30619cd7e4b24bb72c8babc9f10fbdb9f679b90d49b2cf1dfaf9187a"
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-7.zip",
+  "sha256": "757e2103417db382b02353a908ff61cd0d6516c847ade6d66d9814bd330674ba"
 }
