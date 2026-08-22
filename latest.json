@@ -1,15 +1,14 @@
 {
-  "build": 11,
-  "version": "2026.08.21",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-11.zip",
-  "sha256": "c37272b1c6b5789e365aaf52bddd7a30abacec806143fa40c503d0655d31a275",
-  "publishedAt": "2026-08-21T11:05:08.884Z",
+  "build": 12,
+  "version": "2026.08.22",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-12.zip",
+  "sha256": "ccf49f232f201f9bf9e33de24a94a46628c8d8a20efb74147b14d552bb990395",
+  "publishedAt": "2026-08-22T01:06:08.143Z",
   "notes": [
-    "Fixes the update button, which would have refused every future update",
-    "A password can now be set for the till - it stays off until you turn it on in Settings",
-    "Your account sits in the top right corner now, with Settings and Sign out",
-    "Type every cost price on one screen, so profit stops counting the whole selling price",
-    "Carry the whole notebook across in one pass: a Starting utang tab on the Book"
+    "Open a bag from the Stock list, so the count drops for a reason",
+    "Find a product by typing when recording a delivery",
+    "The delivery line now says when it will change a product's cost price",
+    "Log what a supplier was already owed before this app"
   ],
-  "signature": "T7rITMoKfMVW9zxuMf7FWebmQ1yKm4VjQ/VJunWxzL9crzgExLa5nt61Vtj3NmDPbUL0sn7GcmAVS8JEnAWCCQ=="
+  "signature": "iyIopfRZgsFhFMkp8Ir/CFtTa6XLC7uhP4cW5gehpVW3+dcdrUZT6CV4nyZ2UE2Yzo2WnnUmbuE1BHE+G36XDg=="
 }
