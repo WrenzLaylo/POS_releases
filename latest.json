@@ -1,15 +1,11 @@
 {
-  "build": 14,
-  "version": "2026.08.24",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-14.zip",
-  "sha256": "f45cb5ddf711c9f6e592301aff55d8fe82b790203304329ffb3bfa07c2509b52",
-  "publishedAt": "2026-08-24T15:43:09.489Z",
+  "build": 15,
+  "version": "2026.08.25",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-15.zip",
+  "sha256": "aabd9e12b12c271306c9321bd96eddb6d02e2fd9bcfc4c0cf402c8c9acd443d9",
+  "publishedAt": "2026-08-24T16:03:46.641Z",
   "notes": [
-    "Deliver to a customer: one screen records the sale and the delivery together, with a printable delivery note.",
-    "See what is booked to go out on the Dashboard, in the bell, and on History's new Going out tab.",
-    "Discounts are typed at the counter now. A customer's old standing discount is written into their notes, which the account screen finally shows.",
-    "Open a bag from the Stock list, so the count drops for a reason.",
-    "Faster to open, especially with no internet, and every printable document opens again."
+    "The app no longer opens whatever else happens to be running on the same port — it checks that it found the till before showing it to you."
   ],
-  "signature": "r3RhPVOfPeuHRhDIqqdDVHMtZN6ZmrFXll6W9bvgRZcuV1JAVVxDM1LJ/ixYUlNdJBi8UwLys0CdhcfoOzy5Dg=="
+  "signature": "VjybePE8rrSjy6fNxW5V/z8PHEVc7o7MfZp/cG0+hE+1Vdp1gv6nhG+2U4+hq4TH0jGGIDD3J+5VeePc+GkABA=="
 }
