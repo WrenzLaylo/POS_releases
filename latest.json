@@ -1,13 +1,15 @@
 {
-  "build": 13,
+  "build": 14,
   "version": "2026.08.24",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-13.zip",
-  "sha256": "444cd3e2e67d1c820a7990793143493a511099ecf7420725f7bc482c0e274b8c",
-  "publishedAt": "2026-08-24T06:10:54.104Z",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-14.zip",
+  "sha256": "f45cb5ddf711c9f6e592301aff55d8fe82b790203304329ffb3bfa07c2509b52",
+  "publishedAt": "2026-08-24T15:43:09.489Z",
   "notes": [
-    "Deliver to a customer: one screen that records the sale and the delivery together, with a printable delivery note.",
+    "Deliver to a customer: one screen records the sale and the delivery together, with a printable delivery note.",
     "See what is booked to go out on the Dashboard, in the bell, and on History's new Going out tab.",
-    "Fixes every printable document returning a 404."
+    "Discounts are typed at the counter now. A customer's old standing discount is written into their notes, which the account screen finally shows.",
+    "Open a bag from the Stock list, so the count drops for a reason.",
+    "Faster to open, especially with no internet, and every printable document opens again."
   ],
-  "signature": "5CpJkv/PKTQGhf/CLo5k6ac3ncWuhY1sB8pMoGLaR13Toe9yX+NranINsuG/TmXu+p1bs+39jscTeMA8dVgpDw=="
+  "signature": "r3RhPVOfPeuHRhDIqqdDVHMtZN6ZmrFXll6W9bvgRZcuV1JAVVxDM1LJ/ixYUlNdJBi8UwLys0CdhcfoOzy5Dg=="
 }
