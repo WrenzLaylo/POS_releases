@@ -1,14 +1,13 @@
 {
-  "build": 12,
-  "version": "2026.08.22",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-12.zip",
-  "sha256": "ccf49f232f201f9bf9e33de24a94a46628c8d8a20efb74147b14d552bb990395",
-  "publishedAt": "2026-08-22T01:06:08.143Z",
+  "build": 13,
+  "version": "2026.08.24",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-13.zip",
+  "sha256": "444cd3e2e67d1c820a7990793143493a511099ecf7420725f7bc482c0e274b8c",
+  "publishedAt": "2026-08-24T06:10:54.104Z",
   "notes": [
-    "Open a bag from the Stock list, so the count drops for a reason",
-    "Find a product by typing when recording a delivery",
-    "The delivery line now says when it will change a product's cost price",
-    "Log what a supplier was already owed before this app"
+    "Deliver to a customer: one screen that records the sale and the delivery together, with a printable delivery note.",
+    "See what is booked to go out on the Dashboard, in the bell, and on History's new Going out tab.",
+    "Fixes every printable document returning a 404."
   ],
-  "signature": "iyIopfRZgsFhFMkp8Ir/CFtTa6XLC7uhP4cW5gehpVW3+dcdrUZT6CV4nyZ2UE2Yzo2WnnUmbuE1BHE+G36XDg=="
+  "signature": "5CpJkv/PKTQGhf/CLo5k6ac3ncWuhY1sB8pMoGLaR13Toe9yX+NranINsuG/TmXu+p1bs+39jscTeMA8dVgpDw=="
 }
