@@ -1,16 +1,16 @@
 {
-  "build": 16,
+  "build": 17,
   "version": "2026.08.25",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-16.zip",
-  "sha256": "3618a2665e888251e0fb7d2c4b536b62fa3279afffa9292f936435e9938e3e40",
-  "publishedAt": "2026-08-25T00:51:29.304Z",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-17.zip",
+  "sha256": "132fd3e4eba162b0e42b308457e0cbe8e10aac3e410b5e3f8f5240ef80c57496",
+  "publishedAt": "2026-08-25T04:58:42.088Z",
   "notes": [
-    "You can put an utang on different terms — spread what is owed over more months without moving the payment day. The old terms stay on the record.",
-    "A delivery order can now be given a discount.",
-    "The counter now names each discount the way the receipt does, instead of showing one lumped total.",
-    "On the delivery screen, the total and \"Save and print note\" stay in view no matter how many lines the load has.",
-    "Counter is now first in the sidebar, and Dashboard last.",
-    "The search box says Ctrl+K — the key this keyboard actually has — and the arrow keys move through the results."
+    "The app now opens as one window and goes straight to the counter, instead of showing a small window first and then replacing it with another.",
+    "If the app cannot start, it now says why and offers to try again, instead of just closing.",
+    "Some small labels were too light to read against the cream background. They are darker now.",
+    "A \"Due\" reminder now shows in a warm colour instead of blue.",
+    "Better support for working by keyboard, and for screen-reading software.",
+    "If the app is ever slow to open, Help then About now points to a file that says which step was slow."
   ],
-  "signature": "KhifpZ7PK3e16tL6b4iR3DMrjd6atg0+TrsyqjgoS+GTg9ZQdYbjZqJPXuIZpMLX8TWIzuuMoWF3CGH58EK8BA=="
+  "signature": "wAa1f1ez6mS291mMTHb5CC+6ZsITdcEkLtNapTjKFd7Jk7xJPIETE4kzktJ+D3A7TVdQe/OykUlti5q87dl3DQ=="
 }
