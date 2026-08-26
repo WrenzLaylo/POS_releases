@@ -1,16 +1,16 @@
 {
-  "build": 17,
-  "version": "2026.08.25",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-17.zip",
-  "sha256": "132fd3e4eba162b0e42b308457e0cbe8e10aac3e410b5e3f8f5240ef80c57496",
-  "publishedAt": "2026-08-25T04:58:42.088Z",
+  "build": 18,
+  "version": "2026.08.26",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-18.zip",
+  "sha256": "18fb8b62e97fbf2295ec898c93e4bd93c22ac030e2acd781d5d48ce7d4cdbf80",
+  "publishedAt": "2026-08-26T01:22:41.526Z",
   "notes": [
-    "The app now opens as one window and goes straight to the counter, instead of showing a small window first and then replacing it with another.",
-    "If the app cannot start, it now says why and offers to try again, instead of just closing.",
-    "Some small labels were too light to read against the cream background. They are darker now.",
-    "A \"Due\" reminder now shows in a warm colour instead of blue.",
-    "Better support for working by keyboard, and for screen-reading software.",
-    "If the app is ever slow to open, Help then About now points to a file that says which step was slow."
+    "You can now sell feed by the kilo out of an open bag. Put a price per kilo on the product, open a bag, then type the kilos — whole or half.",
+    "Quantities can be changed on the order itself now, beside the total, instead of only on the product.",
+    "The app counts how many bags are open, next to how many are still sealed. What is left inside an open bag is still not counted — that is on the sack, not the app.",
+    "Opening a bag now asks first and shows what the count will become, instead of doing it on one click with nothing to undo it.",
+    "Finishing an open bag is on the same menu, so the count means bags that are open rather than bags ever opened.",
+    "What you type on the delivery screen is kept if you leave the screen and come back."
   ],
-  "signature": "wAa1f1ez6mS291mMTHb5CC+6ZsITdcEkLtNapTjKFd7Jk7xJPIETE4kzktJ+D3A7TVdQe/OykUlti5q87dl3DQ=="
+  "signature": "ekkGqydaZ85d3AgLKywxhi9t1cpyWfbSKgQtwJzuZ7bqMbtJx1BWoNJs2mWvThCCgxJ5Rl3mtkgAW+5MEAfPDA=="
 }
