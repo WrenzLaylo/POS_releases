@@ -1,16 +1,15 @@
 {
-  "build": 18,
-  "version": "2026.08.26",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-18.zip",
-  "sha256": "18fb8b62e97fbf2295ec898c93e4bd93c22ac030e2acd781d5d48ce7d4cdbf80",
-  "publishedAt": "2026-08-26T01:22:41.526Z",
+  "build": 19,
+  "version": "2026.08.29",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-19.zip",
+  "sha256": "2f960a9cdc4fda5d04498e592bd88eea279605334c0249e2d559b456eda7439f",
+  "publishedAt": "2026-08-29T15:49:52.320Z",
   "notes": [
-    "You can now sell feed by the kilo out of an open bag. Put a price per kilo on the product, open a bag, then type the kilos — whole or half.",
-    "Quantities can be changed on the order itself now, beside the total, instead of only on the product.",
-    "The app counts how many bags are open, next to how many are still sealed. What is left inside an open bag is still not counted — that is on the sack, not the app.",
-    "Opening a bag now asks first and shows what the count will become, instead of doing it on one click with nothing to undo it.",
-    "Finishing an open bag is on the same menu, so the count means bags that are open rather than bags ever opened.",
-    "What you type on the delivery screen is kept if you leave the screen and come back."
+    "Receipts now print at 58mm, the size of the shop's roll. They were laid out for 80mm paper, which is about a third too wide.",
+    "A line sold by the kilo now prints \"kilo\" on the receipt instead of the bag it came out of.",
+    "Quantities can be changed on the order itself, beside the total, instead of only on the product.",
+    "Typing a quantity larger than the shelf now says what it would leave, the way the delivery screen already did.",
+    "Future updates clean up files a new version no longer uses, which is what stopped the last update from installing."
   ],
-  "signature": "ekkGqydaZ85d3AgLKywxhi9t1cpyWfbSKgQtwJzuZ7bqMbtJx1BWoNJs2mWvThCCgxJ5Rl3mtkgAW+5MEAfPDA=="
+  "signature": "LUmhpyhqG78430Su2dEJw09hQDc9a7T20w6Ezv1pe5TM+rX8PRiOoBLvs0J3QwuIET9xhWNNUGHCRsbYCj54Aw=="
 }
