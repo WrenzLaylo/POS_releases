@@ -1,15 +1,12 @@
 {
-  "build": 19,
-  "version": "2026.08.29",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-19.zip",
-  "sha256": "2f960a9cdc4fda5d04498e592bd88eea279605334c0249e2d559b456eda7439f",
-  "publishedAt": "2026-08-29T15:49:52.320Z",
+  "build": 20,
+  "version": "2026.08.30",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-20.zip",
+  "sha256": "b01b3b51defc46bd6a745b68e13cccb0e528178d1b12efc26a864a0f5685e613",
+  "publishedAt": "2026-08-29T16:45:52.790Z",
   "notes": [
-    "Receipts now print at 58mm, the size of the shop's roll. They were laid out for 80mm paper, which is about a third too wide.",
-    "A line sold by the kilo now prints \"kilo\" on the receipt instead of the bag it came out of.",
-    "Quantities can be changed on the order itself, beside the total, instead of only on the product.",
-    "Typing a quantity larger than the shelf now says what it would leave, the way the delivery screen already did.",
-    "Future updates clean up files a new version no longer uses, which is what stopped the last update from installing."
+    "The app now clears out leftover files that a failed update left behind. About 340 MB of them had built up.",
+    "Installing and updating tidy up after themselves, so that space cannot pile up again."
   ],
-  "signature": "LUmhpyhqG78430Su2dEJw09hQDc9a7T20w6Ezv1pe5TM+rX8PRiOoBLvs0J3QwuIET9xhWNNUGHCRsbYCj54Aw=="
+  "signature": "Utp8WkfD3/OajAX4jEybd+WdNplTYMaahhMvnQN8rxqz1jqvrpHPkdnCyF+Rk6iKrsKMi9gepsy0A6PLj62sBQ=="
 }
