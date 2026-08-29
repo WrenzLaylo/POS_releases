@@ -1,12 +1,12 @@
 {
-  "build": 20,
+  "build": 22,
   "version": "2026.08.30",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-20.zip",
-  "sha256": "b01b3b51defc46bd6a745b68e13cccb0e528178d1b12efc26a864a0f5685e613",
-  "publishedAt": "2026-08-29T16:45:52.790Z",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-22.zip",
+  "sha256": "e09cb5b69c830e1b5f2acd5a5fce5e6431f324dc1ae77380c0195bca37702a30",
+  "publishedAt": "2026-08-29T19:19:55.318Z",
   "notes": [
-    "The app now clears out leftover files that a failed update left behind. About 340 MB of them had built up.",
-    "Installing and updating tidy up after themselves, so that space cannot pile up again."
+    "The app now arrives already built, so updates no longer compile on this computer",
+    "Fixes an update that could install and then fail to open every screen"
   ],
-  "signature": "Utp8WkfD3/OajAX4jEybd+WdNplTYMaahhMvnQN8rxqz1jqvrpHPkdnCyF+Rk6iKrsKMi9gepsy0A6PLj62sBQ=="
+  "signature": "01HEYYLc3ltJ8VUS8ytyhN7qU486d7Z4yl/BD5/D6gvWMlyglpbi4A8SRKS9VOO/eohwk5kjbnglNXFUZvwcAQ=="
 }
