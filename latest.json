@@ -1,12 +1,13 @@
 {
-  "build": 22,
+  "build": 23,
   "version": "2026.08.30",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-22.zip",
-  "sha256": "e09cb5b69c830e1b5f2acd5a5fce5e6431f324dc1ae77380c0195bca37702a30",
-  "publishedAt": "2026-08-29T19:19:55.318Z",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-23.zip",
+  "sha256": "6de9947d12e561faf3c34e7e77fab9d9131d103f409a0144ca21c60ce6baed45",
+  "publishedAt": "2026-08-30T12:14:30.154Z",
   "notes": [
-    "The app now arrives already built, so updates no longer compile on this computer",
-    "Fixes an update that could install and then fail to open every screen"
+    "The receipt now fits the paper — smaller print, and nothing runs off the edge",
+    "You can choose 58mm or 80mm receipt paper",
+    "The taskbar icon is the Violy Store mark again"
   ],
-  "signature": "01HEYYLc3ltJ8VUS8ytyhN7qU486d7Z4yl/BD5/D6gvWMlyglpbi4A8SRKS9VOO/eohwk5kjbnglNXFUZvwcAQ=="
+  "signature": "zeqKZs/bJe0foEoWzULtGlGT00inMGbm35sCaU6C65g7kPEVi594RXLk6gClifQVm69RtEJB9ua1Xq3MSDrQBQ=="
 }
