@@ -1,13 +1,12 @@
 {
-  "build": 23,
+  "build": 24,
   "version": "2026.08.30",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-23.zip",
-  "sha256": "6de9947d12e561faf3c34e7e77fab9d9131d103f409a0144ca21c60ce6baed45",
-  "publishedAt": "2026-08-30T12:14:30.154Z",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-24.zip",
+  "sha256": "e2b3d5625a7c773acf88970fa4ec50f027d1dc3c92775ce0cf558df6f1284c3e",
+  "publishedAt": "2026-08-30T15:05:32.452Z",
   "notes": [
-    "The receipt now fits the paper — smaller print, and nothing runs off the edge",
-    "You can choose 58mm or 80mm receipt paper",
-    "The taskbar icon is the Violy Store mark again"
+    "Kilos now show on the counter for any feed with a price per kilo",
+    "New Utang tab under Deliveries: record what you owe a supplier, over how many months, and when each payment is due"
   ],
-  "signature": "zeqKZs/bJe0foEoWzULtGlGT00inMGbm35sCaU6C65g7kPEVi594RXLk6gClifQVm69RtEJB9ua1Xq3MSDrQBQ=="
+  "signature": "5qf7FFlQMQ5TLAt3pT9eQbKJwo5mRzZmRaYkxA73dLrQuhbTlju8Jr19qFYku87YY286MHD2cpO5+Pn94HsaCQ=="
 }
