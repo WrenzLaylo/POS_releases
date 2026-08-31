@@ -1,12 +1,11 @@
 {
-  "build": 24,
-  "version": "2026.08.30",
-  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-24.zip",
-  "sha256": "e2b3d5625a7c773acf88970fa4ec50f027d1dc3c92775ce0cf558df6f1284c3e",
-  "publishedAt": "2026-08-30T15:05:32.452Z",
+  "build": 25,
+  "version": "2026.08.31",
+  "zipUrl": "https://raw.githubusercontent.com/WrenzLaylo/POS_releases/main/violy-pos-25.zip",
+  "sha256": "8863868acdbe34977ee8ee329b7855fb1adae310f085e058a3fc1850160242dc",
+  "publishedAt": "2026-08-31T11:33:01.331Z",
   "notes": [
-    "Kilos now show on the counter for any feed with a price per kilo",
-    "New Utang tab under Deliveries: record what you owe a supplier, over how many months, and when each payment is due"
+    "Record an utang straight from the Utang tab, and add a new supplier while you are there"
   ],
-  "signature": "5qf7FFlQMQ5TLAt3pT9eQbKJwo5mRzZmRaYkxA73dLrQuhbTlju8Jr19qFYku87YY286MHD2cpO5+Pn94HsaCQ=="
+  "signature": "UxvSx3H6egSLQ5U6mq2Pu3kSOtMODX1LfTNn8l1lty6BCMLDjIazbzRqar8QLx1AniEQDQHs7LRLs/sJ4xNDAQ=="
 }
